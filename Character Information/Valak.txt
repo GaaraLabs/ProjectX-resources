@@ -1,18 +1,10 @@
-[Name] - Valak
+In recent religious texts, there's a frequent mention of a young man, that went by the name of Valak. He lost many things in this cold world, his family to cultists, his sister to his own brethren and his humanity to the world. When he was very young, his family died at the hands of cultists, he wasn't left unscathed either. They took him and put a price tag on his head. After all, for some, human lives are one of the cheapest things, the world has to offer. Already traumatized, the poor kid worked hard, and then finally, a ray of light appeared in front of him, a new hope, a new possibility... He thought his life finally changed when the assassins of a now forbidden clan rescued him, gave him a better living and trained him to be a better human, a better fighter. A few years of happiness passed by, far from the war taking place in the rest of the world. Deep inside a forest, he was living the life of a monk. Until one day, he was confronted by the harsh truth. Even his new home, his new family, wasn't much different, from the people who slaughtered his actual one. He wanted to revolt, he wanted to leave, but was held hostage, the throat of her new sister pressed against the thinnest of the blades. He pleaded, begged for her life, accepted their conditions, but it was all in vain. Another blow to his already weak and wounded soul enraged him, leaving him with an empty body. He had no feelings, not anymore. He was determined to not get close to anyone, to not let anyone get close to him, and in turn, for anyone to earn his trust. After that day, each and every fight he was a part of, left none but one man alive... Slowly making his way out into the bigger and possible a worse world, he wouldn't let his guard down. He has now joined the military, expecting to not be accountable for anyone but his own life, but he might just be held accountable for... for his opponents'. 
 
-[BackStory] - 
-
-Family died when he was a child, somehow he was able to save his life and he ran away from his country. But got captured by a racket of child trafficking.
-Then saved by a group of Assassins who raised him, helped him to take his revenge and he became one of the best Assassin. Soon he realised the orders they were giving him were wrong
-so he opposed but they threatened him that they will take life of those who are close to him, to save life of his peoples he started obeying thier orders and became the most dangerous cold blooded killer.
-When he was away someone killed his sister to whom he loved very deeply and promised to protect her forever. When he figured out that his sister had died he went Berserk, killed every single person of that assassin group, went far away and was never found.
-
-[Characteristics & Ability] - 
-
-Role: [Main - Assassin], [Sub - Assaulter]
-Faction: A [Exyllus]
-Passive: 
-Active: Can move faster while making lesser noice after killing 3 enemies through blades
-Primary: Automatic Rifles
-Secondary: Automatic Pistols
-Melee: Blades
+Valak:
+Role: Assassin Secondary Assaulter
+Faction: Exyllus
+Passive: Gains movement speed by 5% and supresses noise by 15% for each kill he gets this round
+Active: Throws 3 shuriken in rapid succession, dealing increased damage on successive hits on the same enemy (20-30-40), one time use per round, no cooldown
+Primary: Weak automatic rifle
+Secondary: Automatic pistol
+Melee: Kunai
