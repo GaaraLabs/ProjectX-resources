@@ -14,6 +14,6 @@ Role:Assault
 Faction: B
 Passive: Increases the damage dealt by primary and secondary weapons of his whole team by 5
 Active: Reveal the location of the closest enemy on the mini-map for a few seconds, 1 time use per round
-Primary: Automatic rifle
+Primary: LMG
 Secondary: Revolver
 Melee: Knife
