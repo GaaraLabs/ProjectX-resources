@@ -1,0 +1,10 @@
+Kicked out of his nation and labelled a faillure, the previous leader of Stein's scientific group, a great scientist named Ainz was welcomed to join the opposing forces, after finding a place much more suitable for himself, the technologically advanced nation of <insert name of country here> respected his work and accepted him as a citizen as long as he worked for their military. Comparing his current life to his previous one, he didn't regret his decisions one bit but what he did regret, was to serve a fool for the majority of his life, but now, he wants his revenge, he wants to get back at the careless fool who kicked him out, he wants to prove, that he wasn't worthless. That he wasn't a faillure.
+
+Ainz:
+Faction: B
+Passive: Can carry more grenades than usual (3)
+Active: Places a proximity mine dealing 50-60 damage, 2 charges, no cooldown
+Role: Support
+Primary: SMG
+Secondary: Double Barrel Shotgun
+Melee: Knife

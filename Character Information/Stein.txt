@@ -1,0 +1,12 @@
+In these horrible times, everyone was under stress, people were losing their loved ones, empires were losing their lands, some more than others. But in all this
+chaos there was but one carefree bird, who went by the name of Stien. Being the son of the governor, of one of the leading nations, he had never seen the face of poverty. The young man grew up in a little bit too much for his own good, if he didn't get what he wanted, you better guess what would happen. With no one to
+control this spoilt brat, He went out in a frenzy, trampling others underneath his feet. Controlling the army as if they were his puppets, even going to the extent of burning down whole villages, oh of course for a meaningful reason, it was done... in the name of science! Or so he made everyone to believe it. Believe it or not, this crazy kid actually loved science! Not only himself but he even has a group of qualified scientists working for him, developing new and improved weapons with latest of the technologies. And now he is here, in the battlefield, may just be for yet another experiment, who knows...?
+
+Stien:
+Role: Sniper Secondary: Support
+Faction: A
+Passive: Bullets slightly turn towards marked enemies
+Active: Drone: Sends out a drone (30hp, no armor) with a camera and 2 transmittors that can be shot to mark the enemies without dealing any damage while leaving the player immobile, can be recalled and explodes when destroyed by the enemy
+Primary: High power Sniper rifle
+Secondary: Automatic Pistol
+Melee: Knife

@@ -1,0 +1,13 @@
+Once deemed a myth, the legendary thief went by the name of L, breaking through impenetrable walls, unbreakable safes, lurking past thousands of guards as if it 
+was a child's play. Tha hardships of the war had built her up, ever since her parents died in the war, she made a living out of theft. The citizens cursed
+her, hated that she existed. But there was one, one who embraced her without a care. Her best friend, whom she believed to be her only strength, which actually,
+turned out to be her only weakness... Her best friend was caught, torturred and imprisoned by the military after several warnings to Larce, for her to come out and surrender, she wanted to, but never had the courage, and then it all changed, she left it all behind, ran away, away from her home, away from her land, away from her friend, to <insert name of superpower here>, there she sold all the intel of her previous land, hoping to get their support, hoping to fight alongside them... just to see her friend once again
+
+Larce:
+Role: Assassin
+Faction: B
+Passive: Movement produce 50-60% less sounds
+Active: Shoots out a drugged dart that makes the enemy take more damage and blurs their vision for 8 seconds, 2 charges, 20 second cooldown
+Primary: Combat Shotgun
+Secondary: Silenced pistol
+Melee: Dagger (just cosmetic)
