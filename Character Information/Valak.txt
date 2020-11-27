@@ -10,8 +10,9 @@ When he was away someone killed his sister to whom he loved very deeply and prom
 [Characteristics & Ability] - 
 
 Role: [Main - Assassin], [Sub - Assaulter]
-Faction: A [ Exyllus]
-Active: Can move faster then others while making lesser noice
+Faction: A [Exyllus]
+Passive: Better eyesight - can see clearly everything in dark
+Active: Can move faster while making lesser noice after killing 3 enemies through blades
 Primary: Automatic Rifles
 Secondary: Automatic Pistols
 Melee: Blades
