@@ -1,5 +1,5 @@
-A few years ago, there lived a peaceful family, in the small town of xyz. Until one day, it all went up in the flames. The fire not only burned on the ruins of the city, but also in the hearts of the two unfortunate siblings. Not long ago, did their father sign up for the military program and left their city, they
-cried for him to stop, they wanted him to be there, for they were scared, but little did they knew, that he left for good. A week passed and when
+A few years ago, there lived a peaceful family, in the small town of < name of town after its decided >. Until one day, it all went up in the flames. The fire not only burned on the ruins of the city, but also in the hearts of the two unfortunate siblings. Not long ago, their father signed up for the military program and left their city, 
+they cried for him to stop, they wanted him to be there, for they were scared, but little did they knew, that he left for good. A week passed and when
 no one was around, the city was under siege, people were killed, houses were demolished and few who surrendered, were taken hostage. Our tale revolves
 around 2 of them. Actually, they were 3, but the eldest one, the one most important to the siblings,the one responsible for bringing them to this world,
 was slain. Right in front of their eyes, was laying down her corpse. At that day, the siblings resolved one thing, and that, was to avenge their mother,
@@ -13,7 +13,7 @@ Dart:
 Role: Assault Secondary: Sniper
 Faction: A
 Passive: Increases damage dealt by primary and secondary weapons of herself and her brother by 5 if her brother is on the battlefield
-Active: If killed 2 opponents in this round, her secondary weapon can be exchanged for a weak sniper rifle, 1 time use per round
+Active: If killed 2 opponents in one round, her secondary weapon can be exchanged for a weak sniper rifle, 1 time use per round
 Primary: Automatic rifle, semi-auto if scoped
 Secondary: Pistol/ Weak sniper rifle
 Melee: Knife
