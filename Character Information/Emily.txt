@@ -1,0 +1,15 @@
+Exodius High, an average military school is where the origins of yet another two characters takes place. Met due to destiny or not, their destinies are now intertwined. The day they left the campus, proved to be a turning point in their lives. Due to shortage of men, young graduates had to leave their studies and risk their lives for their motherland. Although some had these ruthless experiences in their lives already, most did not. From total novices to high respected officers, their lives were not easy, though easy it was, for the ones who left early. The ones who left for good. And among these young children, two names that standout the most, are those of Emily and Tyran. One known to save lives, while the other to end them.
+
+
+A shy studious girl, the embodiment of a perfect child. She grew up in a strict household, one which has a lot of expectations from her. Due to which, her timid nature was set in stone early on. Throughout her life people have used her, for the best of her abilities, and her being naive and kind only made it easier for them. Though once she enrolled in high school, things started to change. For better or for worse, its hard to say. First, she met someone who never asked for help, and ended up helping herself instead. And second, her parents wanted her to join the military, and the blind sheep that she was, she eventually did.
+
+Emily:
+Age: 23
+Role: Sniper Secondary: Medic
+Faction: 
+Active: Medkit: Heals for 20 hp after 1 second delay, 3 charges, 20 second cooldown
+	Mend: Restores 50% of missing armor, 2 charges, limits to 1 use per player
+Passive: Defuses bombs and Transfers data 20% faster
+Primary: Average Sniper
+Secondary: Shotgun
+Melee: Knife
