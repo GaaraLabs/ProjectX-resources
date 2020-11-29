@@ -1,0 +1,302 @@
+                     |        Exyllus         |            B
+Assaulter            |      Dart, Ryan        |      Spitfire, Tyran
+Sniper               |         Stein          |          Emily
+Support              |         Edwin          |       Ainz, Jimmy
+Medic                |      Surge, Kyle       |          Laura
+Assassin             |         Valak          |          Larce
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+A few years ago, there lived a peaceful family, in the small town of <town name>. Until one day, it all went up in the flames. The fire not only burned on the ruins of the city, but also in the hearts of the two unfortunate siblings. Not long ago, their father signed up for the military program and left their city, they cried for him to stop, they wanted him to be there, for they were scared, but little did they knew, that he left for good. A week passed and when
+no one was around, the city was under siege, people were killed, houses were demolished and few who surrendered, were taken hostage. Our tale revolves
+around 2 of them. Actually, they were 3, but the eldest one, the one most important to the siblings,the one responsible for bringing them to this world,
+was slain. Right in front of their eyes, was laying down their mother's corpse. At that day, the siblings resolved one thing, and that, was to avenge their mother, it was to take revenge from the one who could have protected them, the one who failed them. They both signed up for the military program in the nation that kept them hostage, they were ready to betray their own land, for they were brainwashed by the country, unnecessary it might have been, cause either way
+they were coming back, to kill the one who could have protected them, the one who failed them...
+
+The younger of the two unfortunate siblings, reffered to as Surge soon after a few years of his service as a surgeon in the military. Doesn't speak much, or maybe just doesn't get the opportunity due to her fierce sister. The more mature of the two, who handles things peacefully, but still, the agonising sight of his mother haunts him deep inside, begging him to avenger her, begging him to get her revenge... 
+
+Surge:
+Age: 25
+Height: 5'11''
+Weight: 73 kgs
+Gender: Male
+Role: Medic
+Faction: Exyllus         
+Passive: Increases max hp of himself and his sister by 10% if his sister is on the battlefield
+Active: Medkit: Heals for 20 hp after 1 second delay, 3 charges, 20 second cooldown
+	Adrenaline shot: Increases Movement Speed and decreases bullet spread for 25 seconds, inverts the effects for 8 seconds when it is over, 2 charges 	(capped at 1 per person)
+Primary: SMG
+Secondary: Silenced weak pistol
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+A few years ago, there lived a peaceful family, in the small town of <town name>. Until one day, it all went up in the flames. The fire not only burned on the ruins of the city, but also in the hearts of the two unfortunate siblings. Not long ago, their father signed up for the military program and left their city, they cried for him to stop, they wanted him to be there, for they were scared, but little did they knew, that he left for good. A week passed and when
+no one was around, the city was under siege, people were killed, houses were demolished and few who surrendered, were taken hostage. Our tale revolves
+around 2 of them. Actually, they were 3, but the eldest one, the one most important to the siblings,the one responsible for bringing them to this world,
+was slain. Right in front of their eyes, was laying down their mother's corpse. At that day, the siblings resolved one thing, and that, was to avenge their mother, it was to take revenge from the one who could have protected them, the one who failed them. They both signed up for the military program in the nation that kept them hostage, they were ready to betray their own land, for they were brainwashed by the country, unnecessary it might have been, cause either way
+they were coming back, to kill the one who could have protected them, the one who failed them...
+
+The older of the two unfortunate siblings. Her fierce attitude and foul mouth has earned her the title of Dart. She spends her day in solitude, even avoiding the company of her brother but when they are together, she does feel a little more safe, as if she was getting stronger just from the sight of him, especially on the battlefields.
+
+Dart:
+Age 28
+Height: 5'6''
+Weight: 56 kgs
+Gender: Female
+Role: Assault Secondary: Sniper
+Faction: Exyllus         
+Passive: Increases damage dealt by primary and secondary weapons of herself and her brother by 5 if her brother is on the battlefield
+Active: Places a lazer targetting turret that shoots the first enemy that comes near it, dealing damage equal to her primary weapon
+Primary: Automatic rifle, semi-auto if scoped
+Secondary: Pistol
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+A few years ago, there lived a peaceful family, in the small town of <town name>. Until one day, it all went up in the flames. The fire not only burned on the ruins of the city, but also in the hearts of the two unfortunate siblings. Not long ago, their father signed up for the military program and left their city, they cried for him to stop, they wanted him to be there, for they were scared, but little did they knew, that he left for good. A week passed and when
+no one was around, the city was under siege, people were killed, houses were demolished and few who surrendered, were taken hostage. Our tale revolves
+around 2 of them. Actually, they were 3, but the eldest one, the one most important to the siblings,the one responsible for bringing them to this world,
+was slain. Right in front of their eyes, was laying down their mother's corpse. At that day, the siblings resolved one thing, and that, was to avenge their mother, it was to take revenge from the one who could have protected them, the one who failed them. They both signed up for the military program in the nation that kept them hostage, they were ready to betray their own land, for they were brainwashed by the country, unnecessary it might have been, cause either way
+they were coming back, to kill the one who could have protected them, the one who failed them...
+
+An experienced Military General, one who has given up his whole life for the sake of his country, no-one knows what happened to his family, he himself believes them to be dead, or even worse, to have never existed in the first place. His war experience helps him greately, even letting him easily predict opponent's moves. His comrades strive to be like him, observing him as a role model, his presence is enough to fire up the hearts of many young soldiers and have them give their best on the battlefield
+
+Spitfire:
+Age: 49
+Height: 5'9''
+Weight: 68 kgs
+Gender: Male
+Role:Assault
+Faction: B
+Passive: Increases the damage dealt by primary and secondary weapons of his whole team by 5
+Active: Reveal the location of the closest enemy on the mini-map for a few seconds, 1 time use per round
+Primary: Automatic rifle
+Secondary: Revolver
+Melee: Knife
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+In these horrible times, everyone was under stress, people were losing their loved ones, empires were losing their lands, some more than others. But in all this
+chaos there was but one carefree bird, who went by the name of Stien. Being the son of the governor, of one of the leading nations, he had never seen the face of poverty. The young man grew up in a little bit too much for his own good, if he didn't get what he wanted, you better guess what would happen. With no one to
+control this spoilt brat, He went out in a frenzy, trampling others underneath his feet. Controlling the army as if they were his puppets, even going to the extent of burning down whole villages, oh of course for a meaningful reason, it was done... in the name of science! Or so he made everyone to believe it. Believe it or not, this crazy kid actually loved science! Not only himself but he even has a group of qualified scientists working for him, developing new and improved weapons with latest of the technologies. And now he is here, in the battlefield, may just be for yet another experiment, who knows...?
+
+Stein:
+Age: 26
+Height: 6'2''
+Weight: 60 kgs
+Gender: Male
+Role: Sniper Secondary: Support
+Faction: Exyllus         
+Passive: Bullets slightly turn towards marked enemies
+Active: Drone: Sends out a drone (30hp, no armor) with a camera and 2 transmittors that can be shot to mark the enemies without dealing any damage while leaving the player immobile, can be recalled and explodes when destroyed by the enemy
+Primary: High power Sniper rifle
+Secondary: Automatic Pistol
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Kicked out of his nation and labelled a faillure, the previous leader of Stein's scientific group, a great scientist named Ainz was welcomed to join the opposing forces, after finding a place much more suitable for himself, the technologically advanced nation of <insert name of country here> respected his work and accepted him as a citizen as long as he worked for their military. Comparing his current life to his previous one, he didn't regret his decisions one bit but what he did regret, was to serve a fool for the majority of his life, but now, he wants his revenge, he wants to get back at the careless fool who kicked him out, he wants to prove, that he wasn't worthless. That he wasn't a faillure.
+
+Ainz:
+Age: 32
+Height: 5'10''
+Weight: 80 kgs
+Gender: Male
+Faction: B
+Passive: Has a mechanical eye, that provides thermal vision in a 10m radius
+Active: Places a camera on his position which can be switched to at any moment. 2 Charges
+Role: Support
+Primary: SMG
+Secondary: Solar Powered Tazer
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once deemed a myth, the legendary thief went by the name of L, breaking through impenetrable walls, unbreakable safes, lurking past thousands of guards as if it 
+was a child's play. Tha hardships of the war had built her up, ever since her parents died in the war, she made a living out of theft. The citizens cursed
+her, hated that she existed. But there was one, one who embraced her without a care. Her best friend, whom she believed to be her only strength, which actually,
+turned out to be her only weakness... Her best friend was caught, torturred and imprisoned by the military after several warnings to Larce, for her to come out and surrender, she wanted to, but never had the courage, and then it all changed, she left it all behind, ran away, away from her home, away from her land, away from her friend, to <insert name of superpower here>, there she sold all the intel of her previous land, hoping to get their support, hoping to fight alongside them... just to see her friend once again
+
+Larce:
+Age: 26
+Height: 5'3''
+Weight: 40 kgs
+Gender: Female
+Role: Assassin
+Faction: Exyllus         
+Passive: Movement produce 50-60% less sounds
+Active: Shoots out a drugged dart that makes the enemy take more damage and blurs their vision for 8 seconds, 2 charges, 20 second cooldown
+Primary: Combat Shotgun
+Secondary: Silenced pistol
+Melee: Dagger (just cosmetic)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+In recent religious texts, there's a frequent mention of a young man, that went by the name of Valak. He lost many things in this cold world, his family to cultists, his sister to his own brethren and his humanity to the world. When he was very young, his family died at the hands of cultists, he wasn't left unscathed either. They took him and put a price tag on his head. After all, for some, human lives are one of the cheapest things, the world has to offer. Already traumatized, the poor kid worked hard, and then finally, a ray of light appeared in front of him, a new hope, a new possibility... He thought his life finally changed when the assassins of a now forbidden clan rescued him, gave him a better living and trained him to be a better human, a better fighter. A few years of happiness passed by, far from the war taking place in the rest of the world. Deep inside a forest, he was living the life of a monk. Until one day, he was confronted by the harsh truth. Even his new home, his new family, wasn't much different, from the people who slaughtered his actual one. He wanted to revolt, he wanted to leave, but was held hostage, the throat of his new sister pressed against the thinnest of the blades. He pleaded, begged for her life, accepted their conditions, but it was all in vain. Another blow to his already weak and wounded soul enraged him, leaving him with an empty body. He had no feelings, not anymore. He was determined to not get close to anyone, to not let anyone get close to him, and in turn, for anyone to earn his trust. After that day, each and every fight he was a part of, left none but one man alive... Slowly making his way out into the bigger and possible a worse world, he wouldn't let his guard down. He has now joined the military, expecting to not be accountable for anyone but his own life, but he might just be held accountable for... for his opponents'. 
+
+
+
+Valak:
+
+Age: 29
+Height: 6'
+Weight: 50 kgs
+Gender: Male
+Role: Assassin Secondary Assaulter
+
+Faction: B
+Passive: Gains movement speed by 5% and supresses noise by 15% for each kill he gets this round
+
+Active: Throws 3 shuriken in rapid succession, dealing increased damage on successive hits on the same enemy (20-30-40), one time use per round, no cooldown
+
+Primary: Weak automatic rifle
+
+Secondary: Automatic pistol
+Melee: Kunai
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exodius High, an average military school is where the origins of yet another two characters takes place. Met due to destiny or not, their destinies are now intertwined. The day they left the campus, proved to be a turning point in their lives. Due to shortage of men, young graduates had to leave their studies and risk their lives for their motherland. Although some had these ruthless experiences in their lives already, most did not. From total novices to high respected officers, their lives were not easy, though easy it was, for the ones who left early. The ones who left for good. And among these young children, two names that standout the most, are those of Emily and Tyran. One known to save lives, while the other to end them.
+
+
+A shy studious girl, the embodiment of a perfect child. She grew up in a strict household, one which has a lot of expectations from her. Due to which, her timid nature was set in stone early on. Throughout her life people have used her, for the best of her abilities, and her being naive and kind only made it easier for them. Though once she enrolled in high school, things started to change. For better or for worse, its hard to say. First, she met someone who never asked for help, and ended up helping herself instead. And second, her parents wanted her to join the military, and the blind sheep that she was, she eventually did.
+
+Emily:
+Age: 23
+Height: 5'9''
+Weight: 60 kgs
+Gender: Female
+Role: Sniper
+Faction: B
+Active: Places a lazer tracing turret that shots one bullet, dealing the same amount of damage as her primary weapon
+Passive: Defuses bombs and Transfers data 20% faster
+Primary: Sniper rifle
+Secondary: Shotgun
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exodius High, an average military school is where the origins of yet another two characters takes place. Met due to destiny or not, their destinies are now intertwined. The day they left the campus, proved to be a turning point in their lives. Due to shortage of men, young graduates had to leave their studies and risk their lives for their motherland. Although some had these ruthless experiences in their lives already, most did not. From total novices to high respected officers, their lives were not easy, though easy it was, for the ones who left early. The ones who left for good. And among these young children, two names that standout the most, are those of Emily and Tyran. One known to save lives, while the other to end them.
+Lost his parents early in his life, doesn't like to speak of it though. Sympathy disgusts him, and so did foolishness. Tyran was the most mature kid in Exodius High, maybe 'kid' isn't even the right word for him. Seeing the real world much before his classmates, he couldn't stand their foolishness and wanted to educate them, to make them stronger and independant. But his ways weren't perfect. His rude behavious made him sound like a bully. Even before he could correct anyone, they'd move far away from him. But there was one, the most foolish one according to him, who may just have been the most intelligent, to let him in, into her life, into her heart. Ever since, he had been stalking her, following her every move. He says he doesn't know why, but his behavious does make it pretty obvious.
+ 
+Tyran:
+Age: 24
+Height: 5'7''
+Weight: 63 kgs
+Gender: Male
+Role: Assaulter
+Faction: B
+Active: Places a Remote controlled bomb, detonated by reactivating the ability
+Passive: 
+Primary: Heavy assault rifle
+Secondary: Pistol
+Melee: Dagger
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+About a decade ago, a huge explosion took place, memorised by many, for the loss, for the millions of people who lost their lives, as it marked the most deaths to ever occur due to an accident. A usual day it was, for Doctor Edwin, until an alarm went off, throughout the biggest research laboratory known to mankind, one terrifying enough to send shivers down the spine just by thinking of it. It was an alarm that could only be activated through the top floor, the top secret.
+The secret which put people to shame after it's discovery. The scientists there used living humans as guinea pigs, feeding them chemicals they never knew existed, trying to mutate them, push them past their abilities, and then, one went berserk... Thrashing everything in his path, he bashed open the skulls of many scientists working there. A sight of complete chaos filled the hearts of those alive with horror. One by one they died, screaming, begging for help as all the workers in the lab rushed out, pushing and trampling each other. On the other hand, Doctor Edwin rushed in, trying to run past the crowd that kept pushing him away from his destination. At that moment, he realised, that an eerie silence had filled the air, followed by a huge blast. The lab was in ruins, nothing left of it apart from the ground floor and ruins of their research. Weird chemicals rained down on those who managed to survive, having quite an opposite effect. The government had to shamelessly disband the project, and rehabilitate the once who suffered, employ the ones who worked there. And so, the unlucky doctor was sent to the military, part of which was his own request, to payback the debt he owed to humanity
+
+Edwin:
+Age: 43
+Height: 6'3''
+Weight: 66 kgs
+Gender: Male
+Role: Support
+Faction: Exyllus         
+Active: Throws a smog filled grenade that infects the area around it for 20 seconds, 2 charges, 10 seconds cooldown
+Passive: Injects himself with a risky chemical when below 30HP, giving increased damage and speed but lowering accuracy
+Primary: LMG
+Secondary: Automatic Pistol
+Melee: Poisoned dagger
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Around 3PM, in an unfortunate household, there rang a bell, from the one whom the household cursed from the bottom of it's heart. The stern voice of the military officer on the other side of the line accompanied by an uneasy silence laid the foundation of a bad news, which then stuck the reciever at the bottom of her heart, sending shivers down her whole body. A huge explosion had taken place on the other side of the border, vapourasing almost everyone who was near center. One of which happened to be a war criminal, treated worse than an animal. Tortured and experimented upon. The people considered already dead by their loved ones begged for their death. but were given a worse experience in their lives. Though the deaths affected people on both sides, some forgave it in the name of science, but others could not. One such induvidual from the later of the two groups was Laura. She worked as a nurse, healing those who were wounded, her husband on the other hand, took lives, in the frontlines... until one day he was on the brink of losing his own, he was saved, but not by his own people.
+And soon met his demise in worse circumstances. Anyone else might be depressed, but not her, she resolved to join the army, swore in her heart to not leave anyone else wounded, begging for help, or wanting to die... the way her husband did.
+
+Laura:
+Age:
+Height: 5'5''
+Weight: 65 kgs
+Gender: Female
+Role: Medic
+Faction: B
+Active: Medkit: Heals for 20 hp after 1 second delay, 3 charges, 20 second cooldown
+	Mend: Restores 50% of missing armor, 2 charges, limits to 1 use per player
+Passive: Allies take 20% reduced non-projectile damage.
+Primary: Smg
+Secondary: Pistol
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+A pretty normal sight compared to the chaos arround was that of a true nature lover. Jimmy, He grew up within a small village, next to a forest, and spent the majority of his youth amongst the wild, he quickly grew close to all sorts of animals, two of which are now his faithful companions, Jake and Jack, the two small pups that he rescued from a forest fire as a Forest officer. And now after he quit his job to carry it to the next level, the two are standing almost equal to his size, always right beside him. After seeing how stray animals and even livestocks get massacred by the people in the midst of the war, He joined the military himself in hope to bring a change.
+
+Jimmy:
+Age: 21
+Height: 5'4''
+Weight: 85 kgs
+Gender: Male
+Role: Support
+Faction: B
+Active: Commands his wolves to attack the closest enemy to player's aim or come back
+	Commands his wolves to sniff and pathfind to nearest enemy, after which they walk a few steps in that direction
+Passive: Starts with 2 wolves on his side, each with 50 HP, no armor and 30 melee damage. On their death, gets infuriated and gains 5% more damage
+Primary: Pump Action Shotgun
+Secondary: Deagle
+Melee: Axe
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+When everyone was risking their lives just to take others in the name of their countries, there were also people who wanted the exact opposite. Kyle was but an eccentric man. A reputed Psychiatrist, he enjoyed playing with people's minds, not to harm anyone... but to know more and more about the human brain, about people's reaction in different circumstances. Allthough he was very kind and known for his generosity, he has also been spotted being pretty mean and rude towards people who wanted to put up a fight. But that aside, recently he has been spotted with a weird man. Someone who looks calm yet terrifying at the same time, they say that Kyle is trying to help him. Trying to help him he jumped to different theories, trying to understand his problems. One such theory was about his life at the time he found him. His curiousity always got the better of him. Soon he started to do research about people who were under extreme stress. And what can be a better example for a stressed man than a soldier in these tough times. To learn these things first hand, he joined the army, and learning to use weapons did not take much time for this curious doctor.
+
+Kyle:
+Age: 30
+Height: 6'1''
+Weight: 70 kgs
+Gender: Male
+Role: Medic Secondary: Support
+Faction: Exyllus         
+Active:  Medkit: Heals for 20 hp after 1 second delay, 3 charges, 20 second cooldown
+	 Forms a Barrier that takes the appearance of the environment behind it at the time of use, 2 charges, 10 second cooldown
+Passive: 
+Primary: Weak assault rifle
+Secondary:
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+A petty criminal, robbing people's houses to earn a living, with a daughter fighting cancer, on the verge of death. The family fell apart when he was caught by the police. With his daughter now in care of governemt, he spent a few days in the cell. But what was coming for him... was way worse, with a new scientific laboratory opened up, there were fishy things going on again. Something similar to what happened in <insert name of faction B> under the leadership of Doctor Edwin. There he was experimented upon, tortured and pushed past his limits. And similar to Edwin, they didn't have much success. He spent about a year... being grinded between the experiments in the lab and torture in his prison cell. He took heavy brain damage in the process. Losing most of his memories and unable to feel the most basic of the emotions. The two things he would muble was about destruction, and a little girl. To him the later of the two would have been completely forgotten if not for a passerby, who caught a glipse at his condition when he was being transported. Taking his custody by threatening to disclose the secret experiment. Since then Ryan is taking therapy from the man who saved him, Kyle, a reputed psychiatrist also known for a few witty inventions.
+
+Ryan:
+Age: 25
+Height: 5'8'' 
+Weight: 62 kgs
+Gender: Male
+Role: Assault
+Faction: Exyllus         
+Active: 
+Passive:
+Primary: Heavy assault rifle
+Secondary: Grenade Launcher
+Melee: Knife
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+The war has been going on for quite a few years now, decades perhaps. And over the course of time, the sufferings have only been increasing. The innocent public tries to ignore it, or are made to... forcefully. Instead they talk about the greatness of the people who laid their lives for the country. Chris Dane was such an amalgam of both, but not, at the same time. Blamed for the death of his comrades, the failure of the mission he was the head of, triggered a massive blow to his reputation, even questioning his loyality and exiling him in the name of treason. After all this, the people didn't see his suffering but only as a failure and burden compared to the great martyrs. His daughter though, was the only person to not question his decisions. Giving her best at everything she can, to redeem her father, his integrity. Even after many years, those who recognise her relation with the one titled a disgrace to the nation, degrade her. Years of humiliation has filled her heart with hatred. After finishing her studies as an honour student, she wasted no time and aimed straight for her target, joining the military and looking for a chance. A chance to prove her family's devotion to her nation.
+
+Rose:
+Age: 17
+Height: 5'
+Weight: 44 kgs
+Gender: Female
+Role: 
+Faction:
+Active:
+Passive:
+Primary:
+Secondary:
+Melee:
